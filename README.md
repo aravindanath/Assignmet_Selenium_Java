@@ -1,5 +1,3 @@
-# Assignmet_Selenium_Java
-
 # Selenium WebDriver & Java Interview Assignment
 
 ## 📅 Objective:
